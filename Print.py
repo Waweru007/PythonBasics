@@ -8,4 +8,5 @@ print("word",12,"word2")
 print(2+3)
 print("word "*3)
 
-##to comment we just control slash
+# to comment just control slash
+
