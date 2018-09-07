@@ -9,6 +9,13 @@ f.write('\n' + 'Wallace')
 print(mes)
 f.close()
 
+
+
 names=["mike","Tosh", "Peter", "Josh", "Jack"]
 
 print(names)
+
+for name in names:
+    f=open("test.txt", "a")
+    f.write('\n' + name)
+    f.close()

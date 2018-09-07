@@ -1,0 +1,200 @@
+Gender,Marital Status,Annual Income,Profession,Savings %,Number ofpolicies bought,Mode of payment,Kind of investment,Type of insurance cover,Motivating factor while purchasing a plan,Periodicity of policy,,Satisfaction of transparency,Company preferable to buy a policy,Reason behind choosing the company,Source of investment advice,Do you risk of losing the principle amount
+Male,Married,5lakhs-10lakhs,Business,5%-10%,1,Yearly,Short term,ULIP,Financial security,5-15 years,,Yes ,Govt. company,Brand name,Family or friends,No
+Female,Married,5lakhs-10lakhs,Private job,5%-10%,1,Quarterly,Short term,Whole life insurance,Wealth creation,5-15 years,,No,Govt. company,Brand name,Newspapers,No
+Male,Unmarried,5lakhs-10lakhs,Private job,5%-10%,2,Yearly,Long term,Whole life insurance,Financial security,15-25 years,,Yes ,Public Ltd. Company,Good return,Family or friends,No
+Male,Married,Above 10lakhs,Business,10%-20%,Above 2,Monthly,Short term,Term insurance,Pension,Above 25 years,,Yes ,Govt. company,Track record,Advisors,No
+Male,Married,5lakhs-10lakhs,Private job,5%-10%,1,Yearly,Both,Whole life insurance,Steady income for future,5-15 years,,Yes ,Private company,Brand name,Newspapers,No
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Yearly,Short term,Endowment ,Financial security,5 years,,No,Public Ltd. Company,Track record,Newspapers,No
+Female,Unmarried,1lakh-5lakhs,Govt job,10%-20%,1,Yearly,Both,ULIP,Financial security,5-15 years,,No,Govt. company,Track record,Others,No
+Female,Unmarried,5lakhs-10lakhs,Govt job,10%-20%,2,Quarterly,Long term,Whole life insurance,Financial security,5-15 years,,Yes ,Foreign company,Good return,Family or friends,No
+Male,Married,Above 10lakhs,Private job,Above 20%,2,Monthly,Short term,Term insurance,Financial security,15-25 years,,Yes ,Public Ltd. Company,Good return,Family or friends,No
+Female,Married,1lakh-5lakhs,Private job,10%-20%,0,Yearly,Short term,Endowment ,Wealth creation,5 years,,Yes ,Private company,Safety,Advisors,No
+Female,Unmarried,1lakh-5lakhs,Govt job,1%,1,Yearly,Long term,Endowment ,Pension,5 years,,Yes ,Govt. company,Good return,Others,No
+Male,Married,Above 10lakhs,Business,Above 20%,1,Half-yearly,Both,ULIP,Steady income for future,Above 25 years,,No,Public Ltd. Company,Safety,Others,No
+Male,Unmarried,Above 10lakhs,Business,5%-10%,2,Monthly,Both,Whole life insurance,Steady income for future,5-15 years,,Yes ,Private company,Brand name,Advisors,No
+Male,Married,5lakhs-10lakhs,Business,10%-20%,2,Half-yearly,Long term,Whole life insurance,Wealth creation,15-25 years,,No,Govt. company,Good return,Newspapers,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Long term,Endowment ,Financial security,5 years,,No,Govt. company,Good return,Family or friends,No
+Female,Unmarried,1lakh-5lakhs,Govt job,5%-10%,0,Quarterly,Short term,Endowment ,Wealth creation,5-15 years,,Yes ,Public Ltd. Company,Track record,Family or friends,No
+Male,Married,5lakhs-10lakhs,Business,Above 20%,1,Yearly,Short term,Whole life insurance,Wealth creation,5-15 years,,No,Public Ltd. Company,Track record,Family or friends,No
+Female,Married,1lakh-5lakhs,Govt job,10%-20%,0,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Track record,Advisors,No
+Male,Unmarried,5lakhs-10lakhs,Private job,10%-20%,1,Yearly,Both,Term insurance,Financial security,5-15 years,,Yes ,Foreign company,Good return,Newspapers,No
+Female,Married,Above 10lakhs,Private job,5%-10%,1,Yearly,Long term,Whole life insurance,Pension,15-25 years,,No,Govt. company,Safety,Newspapers,No
+Female,Unmarried,5lakhs-10lakhs,Private job,10%-20%,1,Monthly,Long term,Whole life insurance,Financial security,15-25 years,,Yes ,Govt. company,Brand name,Advisors,No
+Male,Married,Above 10lakhs,Business,5%-10%,Above 2,Monthly,Short term,Whole life insurance,Steady income for future,Above 25 years,,No,Private company,Brand name,Family or friends,yes
+Male,Unmarried,5lakhs-10lakhs,Private job,5%-10%,1,Half-yearly,Both,Term insurance,Steady income for future,Above 25 years,,Yes ,Foreign company,Safety,Newspapers,No
+Male,Unmarried,5lakhs-10lakhs,Govt job,Above 20%,0,Half-yearly,Long term,Term insurance,Financial security,5-15 years,,Yes ,Private company,Track record,Advisors,No
+Male,Married,5lakhs-10lakhs,Business,5%-10%,2,Quarterly,Long term,Whole life insurance,Pension,15-25 years,,No,Public Ltd. Company,Brand name,Others,No
+Female,Unmarried,1lakh-5lakhs,Private job,5%-10%,0,Yearly,Short term,ULIP,Steady income for future,15-25 years,,No,Public Ltd. Company,Safety,Newspapers,No
+Female,Married,1lakh-5lakhs,Govt job,5%-10%,1,Half-yearly,Short term,Endowment ,Financial security,Above 25 years,,No,Govt. company,Safety,Family or friends,No
+Male,Married,Above 10lakhs,Govt job,Above 20%,1,Monthly,Short term,Whole life insurance,Pension,15-25 years,,Yes ,Govt. company,Track record,Family or friends,No
+Female,Married,1lakh-5lakhs,Private job,5%-10%,0,Yearly,Both,Endowment ,Pension,5 years,,Yes ,Private company,Good return,Advisors,No
+Male,Unmarried,Above 10lakhs,Govt job,Above 20%,1,Half-yearly,Long term,Whole life insurance,Financial security,Above 25 years,,No,Govt. company,Good return,Family or friends,yes
+Female,Unmarried,5lakhs-10lakhs,Govt job,5%-10%,2,Half-yearly,Long term,Term insurance,Steady income for future,15-25 years,,No,Private company,Safety,Newspapers,yes
+Female,Married,5lakhs-10lakhs,Govt job,Above 20%,1,Yearly,Short term,Term insurance,Steady income for future,Above 25 years,,Yes ,Public Ltd. Company,Brand name,Newspapers,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,0,Yearly,Both,Endowment ,Financial security,5 years,,No,Public Ltd. Company,Brand name,Advisors,No
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Quarterly,Both,ULIP,Financial security,5-15 years,,Yes ,Govt. company,Safety,Advisors,No
+Male,Married,Above 10lakhs,Business,Above 20%,2,Monthly,Both,ULIP,Pension,15-25 years,,Yes ,Govt. company,Track record,Others,No
+Male,Married,Above 10lakhs,Govt job,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Financial security,Above 25 years,,Yes ,Private company,Track record,Newspapers,No
+Female,Married,5lakhs-10lakhs,Private job,Above 20%,1,Monthly,Long term,Whole life insurance,Financial security,15-25 years,,No,Public Ltd. Company,Brand name,Newspapers,No
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,Endowment ,Pension,5-15 years,,No,Govt. company,Safety,Advisors,No
+Female,Unmarried,1lakh-5lakhs,Private job,Above 20%,1,Yearly,Short term,Endowment ,Pension,15-25 years,,Yes ,Govt. company,Safety,Family or friends,No
+Male,Married,5lakhs-10lakhs,Private job,5%-10%,1,Half-yearly,Both,ULIP,Steady income for future,15-25 years,,Yes ,Private company,Good return,Family or friends,yes
+Male,Unmarried,5lakhs-10lakhs,Business,10%-20%,2,Half-yearly,Both,ULIP,Financial security,5-15 years,,No,Private company,Good return,Others,No
+Female,Married,Above 10lakhs,Private job,Above 20%,2,Monthly,Both,Whole life insurance,Wealth creation,Above 25 years,,No,Public Ltd. Company,Brand name,Advisors,No
+Male,Unmarried,5lakhs-10lakhs,Private job,10%-20%,1,Yearly,Both,Term insurance,Wealth creation,15-25 years,,No,Govt. company,Good return,Family or friends,No
+Male,Unmarried,5lakhs-10lakhs,Business,5%-10%,1,Half-yearly,Long term,ULIP,Pension,5-15 years,,Yes ,Public Ltd. Company,Brand name,Family or friends,No
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,Endowment ,Financial security,5 years,,No,Govt. company,Brand name,Family or friends,No
+Female,Married,Above 10lakhs,Business,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,1lakh-5lakhs,Govt job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Male,Married,Above 10lakhs,Private job,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Male,Unmarried,5lakhs-10lakhs,Private job,10%-20%,1,Yearly,Both,Term insurance,Wealth creation,15-25 years,,No,Govt. company,Good return,Family or friends,No
+Male,Unmarried,5lakhs-10lakhs,Private job,5%-10%,1,Half-yearly,Long term,ULIP,Pension,5-15 years,,Yes ,Public Ltd. Company,Brand name,Family or friends,No
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Yearly,Short term,Endowment ,Financial security,5 years,,No,Govt. company,Brand name,Family or friends,No
+Female,Married,Above 10lakhs,Private job,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,1lakh-5lakhs,Private job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Male,Married,Above 10lakhs,Private job,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Female,Married,Above 10lakhs,Private job,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,1lakh-5lakhs,Private job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Male,Married,Above 10lakhs,Business,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Male,Married,Above 10lakhs,Business,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Financial security,Above 25 years,,Yes ,Private company,Track record,Newspapers,No
+Female,Married,5lakhs-10lakhs,Govt job,Above 20%,1,Monthly,Long term,Whole life insurance,Financial security,15-25 years,,No,Public Ltd. Company,Brand name,Newspapers,No
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,Endowment ,Pension,5-15 years,,No,Govt. company,Safety,Advisors,No
+Female,Unmarried,1lakh-5lakhs,Private job,Above 20%,1,Yearly,Short term,Endowment ,Pension,15-25 years,,Yes ,Govt. company,Safety,Family or friends,No
+Male,Married,5lakhs-10lakhs,Govt job,5%-10%,1,Half-yearly,Both,ULIP,Steady income for future,15-25 years,,Yes ,Private company,Good return,Family or friends,yes
+Male,Unmarried,5lakhs-10lakhs,Govt job,10%-20%,2,Half-yearly,Both,ULIP,Financial security,5-15 years,,No,Private company,Good return,Others,No
+Female,Married,Above 10lakhs,,Above 20%,2,Monthly,Both,Whole life insurance,Wealth creation,Above 25 years,,No,Public Ltd. Company,Brand name,Advisors,No
+Male,Unmarried,5lakhs-10lakhs,Govt job,10%-20%,1,Yearly,Both,Term insurance,Wealth creation,15-25 years,,No,Govt. company,Good return,Family or friends,No
+Male,Unmarried,5lakhs-10lakhs,Govt job,5%-10%,1,Half-yearly,Long term,ULIP,Pension,5-15 years,,Yes ,Public Ltd. Company,Brand name,Family or friends,No
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Yearly,Short term,Endowment ,Financial security,5 years,,No,Govt. company,Brand name,Family or friends,No
+Female,Married,Above 10lakhs,,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,1lakh-5lakhs,Private job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Male,Married,Above 10lakhs,Business,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Male,Married,Above 10lakhs,Business,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Female,Married,Above 10lakhs,,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,1lakh-5lakhs,Private job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Male,Married,Above 10lakhs,Business,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Male,Unmarried,5lakhs-10lakhs,Govt job,5%-10%,1,Half-yearly,Long term,ULIP,Pension,5-15 years,,Yes ,Public Ltd. Company,Brand name,Family or friends,No
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Yearly,Short term,Endowment ,Financial security,5 years,,No,Govt. company,Brand name,Family or friends,No
+Female,Married,Above 10lakhs,Business,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,1lakh-5lakhs,Govt job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Male,Married,Above 10lakhs,Private job,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Male,Married,Above 10lakhs,Private job,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Female,Married,Above 10lakhs,Business,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,1lakh-5lakhs,Govt job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Male,Married,Above 10lakhs,Private job,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Male,Married,Above 10lakhs,Private job,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Financial security,Above 25 years,,Yes ,Private company,Track record,Newspapers,No
+Female,Married,5lakhs-10lakhs,Private job,Above 20%,1,Monthly,Long term,Whole life insurance,Financial security,15-25 years,,No,Public Ltd. Company,Brand name,Newspapers,No
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,Endowment ,Pension,5-15 years,,No,Govt. company,Safety,Advisors,No
+Female,Unmarried,1lakh-5lakhs,Private job,Above 20%,1,Yearly,Short term,Endowment ,Pension,15-25 years,,Yes ,Govt. company,Safety,Family or friends,No
+Male,Married,5lakhs-10lakhs,Business,5%-10%,1,Half-yearly,Both,ULIP,Steady income for future,15-25 years,,Yes ,Private company,Good return,Family or friends,yes
+Male,Unmarried,5lakhs-10lakhs,Govt job,10%-20%,2,Half-yearly,Both,ULIP,Financial security,5-15 years,,No,Private company,Good return,Others,No
+Female,Married,Above 10lakhs,Private job,Above 20%,2,Monthly,Both,Whole life insurance,Wealth creation,Above 25 years,,No,Public Ltd. Company,Brand name,Advisors,No
+Male,Unmarried,5lakhs-10lakhs,Business,10%-20%,1,Yearly,Both,Term insurance,Wealth creation,15-25 years,,No,Govt. company,Good return,Family or friends,No
+Male,Unmarried,5lakhs-10lakhs,Govt job,5%-10%,1,Half-yearly,Long term,ULIP,Pension,5-15 years,,Yes ,Public Ltd. Company,Brand name,Family or friends,No
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Yearly,Short term,Endowment ,Financial security,5 years,,No,Govt. company,Brand name,Family or friends,No
+Female,Married,Above 10lakhs,Private job,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,1lakh-5lakhs,Govt job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Male,Married,Above 10lakhs,Private job,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Male,Married,Above 10lakhs,Business,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Female,Married,Above 10lakhs,Private job,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,1lakh-5lakhs,Private job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Female,Unmarried,1lakh-5lakhs,Private job,Above 20%,1,Yearly,Short term,Endowment ,Pension,15-25 years,,Yes ,Govt. company,Safety,Family or friends,No
+Male,Married,5lakhs-10lakhs,Govt job,5%-10%,1,Half-yearly,Both,ULIP,Steady income for future,15-25 years,,Yes ,Private company,Good return,Family or friends,yes
+Male,Unmarried,5lakhs-10lakhs,Govt job,10%-20%,2,Half-yearly,Both,ULIP,Financial security,5-15 years,,No,Private company,Good return,Others,No
+Female,Married,Above 10lakhs,Business,Above 20%,2,Monthly,Both,Whole life insurance,Wealth creation,Above 25 years,,No,Public Ltd. Company,Brand name,Advisors,No
+Male,Unmarried,5lakhs-10lakhs,Business,10%-20%,1,Yearly,Both,Term insurance,Wealth creation,15-25 years,,No,Govt. company,Good return,Family or friends,No
+Male,Unmarried,5lakhs-10lakhs,Govt job,5%-10%,1,Half-yearly,Long term,ULIP,Pension,5-15 years,,Yes ,Public Ltd. Company,Brand name,Family or friends,No
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Yearly,Short term,Endowment ,Financial security,5 years,,No,Govt. company,Brand name,Family or friends,No
+Female,Married,Above 10lakhs,Business,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,Above 10lakhs,Private job,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,1lakh-5lakhs,Govt job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Female,Married,Above 10lakhs,Business,Above 20%,2,Monthly,Both,Whole life insurance,Wealth creation,Above 25 years,,No,Public Ltd. Company,Brand name,Advisors,No
+Male,Unmarried,5lakhs-10lakhs,Govt job,10%-20%,1,Yearly,Both,Term insurance,Wealth creation,15-25 years,,No,Govt. company,Good return,Family or friends,No
+Male,Unmarried,5lakhs-10lakhs,Govt job,5%-10%,1,Half-yearly,Long term,ULIP,Pension,5-15 years,,Yes ,Public Ltd. Company,Brand name,Family or friends,No
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,Endowment ,Financial security,5 years,,No,Govt. company,Brand name,Family or friends,No
+Female,Married,Above 10lakhs,Business,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,1lakh-5lakhs,Private job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Male,Married,Above 10lakhs,Business,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Male,Married,Above 10lakhs,Business,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Female,Married,Above 10lakhs,Business,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,1lakh-5lakhs,Private job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Male,Married,Above 10lakhs,Business,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Female,Married,Above 10lakhs,Business,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,1lakh-5lakhs,Govt job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Male,Married,Above 10lakhs,Business,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Male,Married,Above 10lakhs,Business,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Financial security,Above 25 years,,Yes ,Private company,Track record,Newspapers,No
+Female,Married,5lakhs-10lakhs,Govt job,Above 20%,1,Monthly,Long term,Whole life insurance,Financial security,15-25 years,,No,Public Ltd. Company,Brand name,Newspapers,No
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,Endowment ,Pension,5-15 years,,No,Govt. company,Safety,Advisors,No
+Female,Unmarried,1lakh-5lakhs,Govt job,Above 20%,1,Yearly,Short term,Endowment ,Pension,15-25 years,,Yes ,Govt. company,Safety,Family or friends,No
+Male,Married,5lakhs-10lakhs,Govt job,5%-10%,1,Half-yearly,Both,ULIP,Steady income for future,15-25 years,,Yes ,Private company,Good return,Family or friends,yes
+Male,Unmarried,5lakhs-10lakhs,Govt job,10%-20%,2,Half-yearly,Both,ULIP,Financial security,5-15 years,,No,Private company,Good return,Others,No
+Female,Married,Above 10lakhs,Business,Above 20%,2,Monthly,Both,Whole life insurance,Wealth creation,Above 25 years,,No,Public Ltd. Company,Brand name,Advisors,No
+Male,Unmarried,5lakhs-10lakhs,Business,10%-20%,1,Yearly,Both,Term insurance,Wealth creation,15-25 years,,No,Govt. company,Good return,Family or friends,No
+Male,Unmarried,5lakhs-10lakhs,Business,5%-10%,1,Half-yearly,Long term,ULIP,Pension,5-15 years,,Yes ,Public Ltd. Company,Brand name,Family or friends,No
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,Endowment ,Financial security,5 years,,No,Govt. company,Brand name,Family or friends,No
+Female,Married,Above 10lakhs,Private job,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,1lakh-5lakhs,Govt job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Male,Married,Above 10lakhs,Private job,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Female,Unmarried,5lakhs-10lakhs,Private job,5%-10%,1,Half-yearly,Long term,ULIP,Pension,5-15 years,,Yes ,Public Ltd. Company,Brand name,Family or friends,No
+Female,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,Endowment ,Financial security,5 years,,No,Govt. company,Brand name,Family or friends,No
+Male,Married,Above 10lakhs,Business,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Male,Married,1lakh-5lakhs,Govt job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Male,Married,Above 10lakhs,Business,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Female,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Male,Married,Above 10lakhs,Business,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Female,Married,Above 10lakhs,Private job,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,1lakh-5lakhs,Private job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Male,Married,Above 10lakhs,Business,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Male,Married,Above 10lakhs,Private job,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Financial security,Above 25 years,,Yes ,Private company,Track record,Newspapers,No
+Female,Married,5lakhs-10lakhs,Private job,Above 20%,1,Monthly,Long term,Whole life insurance,Financial security,15-25 years,,No,Public Ltd. Company,Brand name,Newspapers,No
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,Endowment ,Pension,5-15 years,,No,Govt. company,Safety,Advisors,No
+Female,Unmarried,1lakh-5lakhs,Govt job,Above 20%,1,Yearly,Short term,Endowment ,Pension,15-25 years,,Yes ,Govt. company,Safety,Family or friends,No
+Male,Married,5lakhs-10lakhs,Business,5%-10%,1,Half-yearly,Both,ULIP,Steady income for future,15-25 years,,Yes ,Private company,Good return,Family or friends,yes
+Male,Unmarried,5lakhs-10lakhs,Business,10%-20%,2,Half-yearly,Both,ULIP,Financial security,5-15 years,,No,Private company,Good return,Others,No
+Female,Married,Above 10lakhs,Private job,Above 20%,2,Monthly,Both,Whole life insurance,Wealth creation,Above 25 years,,No,Public Ltd. Company,Brand name,Advisors,No
+Male,Unmarried,5lakhs-10lakhs,Private job,10%-20%,1,Yearly,Both,Term insurance,Wealth creation,15-25 years,,No,Govt. company,Good return,Family or friends,No
+Male,Unmarried,5lakhs-10lakhs,Private job,5%-10%,1,Half-yearly,Long term,ULIP,Pension,5-15 years,,Yes ,Public Ltd. Company,Brand name,Family or friends,No
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,Endowment ,Financial security,5 years,,No,Govt. company,Brand name,Family or friends,No
+Female,Married,Above 10lakhs,Private job,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,1lakh-5lakhs,Private job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Male,Unmarried,1lakh-5lakhs,Private job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
+Male,Married,Above 10lakhs,Private job,Above 20%,2,Quarterly,Short term,Term insurance,Wealth creation,Above 25 years,,Yes ,Private company,Good return,Others,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Half-yearly,Long term,ULIP,Financial security,15-25 years,,Yes ,Public Ltd. Company,Safety,Others,No
+Female,Married,Above 10lakhs,Business,Above 20%,Above 2,Quarterly,Long term,Whole life insurance,Wealth creation,15-25 years,,Yes ,Private company,Safety,Advisors,No
+Female,Married,1lakh-5lakhs,Private job,10%-20%,1,Quarterly,Short term,Endowment ,Financial security,5-15 years,,No,Govt. company,Track record,Advisors,yes
+Male,Unmarried,1lakh-5lakhs,Govt job,5%-10%,1,Yearly,Short term,ULIP,Steady income for future,5-15 years,,Yes ,Private company,Good return,Newspapers,No
