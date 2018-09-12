@@ -41,6 +41,28 @@ VALUES('1990-11-13', 'services', 'peter tosh', 60900)
 SELECT UNIQUE ITEMS 
 SELECT DISTINCT department FROM users
 
+count uniques departments 
+SELECT COUNT (DISTINCT department) FROM users
+
+Get the sum of all salaries paid 
+SELECT SUM(salary) FROM users WHERE 1
+
+Get the minimum salary 
+SELECT names, MIN(salary)FROM users WHERE 1
+
+Get the maximum salary 
+SELECT names, MAX(salary) FROM users WHERE 1
+
+Get the youngest person 
+SELECT names, MIN(dob) AS "Max Date" FROM users
+
+
+
+
+
+
+
+
 
 
                  
