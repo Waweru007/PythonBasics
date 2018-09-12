@@ -27,6 +27,21 @@ SELECT * FROM students WHERE names LIKE '%m'
 Count all Eng Studnets 
 SELECT COUNT(names) FROM students where course='engineering'
 
+To change a case using update(users is the table name with variables salary,dob..
+UPDATE users set salary=52000, dob='1995-01-01' 
+WHERE user_id=2
+
+UPDATE users set salary=52000, dob='1995-01-01' 
+WHERE user_id>10 and user_id<15
+
+INSERT STATEMENT
+INSERT INTO users(dob, department, names, salary)
+VALUES('1990-11-13', 'services', 'peter tosh', 60900)
+
+SELECT UNIQUE ITEMS 
+SELECT DISTINCT department FROM users
+
+
 
                  
                            
