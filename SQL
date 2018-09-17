@@ -1,0 +1,72 @@
+Standard Querry Language 
+
+##To select Everything from the table student 
+SELECT * FROM students    
+##To select the first 10 items 
+SELECT * FROM students LIMIT 10
+To select all females from the table students
+##SELECT * FROM students WHERE gender='female'
+To select all females and studnet ID is more than 500
+SELECT * FROM students WHERE gender='female' and student_id>500
+
+To select  first ten of all females and studnet ID is more than 500
+SELECT * FROM students WHERE gender='female' and student_id>500 LIMIT 10
+
+To select all students who have their year of birth equal to 1996
+SELECT * FROM students WHERE dob LIKE '1996%'
+
+To select all students who have 13 in their dob anywhere
+SELECT * FROM students WHERE dob LIKE '%13%'
+ 
+To select all students who have 13 in the last part of the year of birth
+SELECT * FROM students WHERE dob LIKE '%13'
+
+ALl studnets with M in their last name as the last element 
+SELECT * FROM students WHERE names LIKE '%m'       
+
+Count all Eng Studnets 
+SELECT COUNT(names) FROM students where course='engineering'
+
+To change a case using update(users is the table name with variables salary,dob..
+UPDATE users set salary=52000, dob='1995-01-01' 
+WHERE user_id=2
+
+UPDATE users set salary=52000, dob='1995-01-01' 
+WHERE user_id>10 and user_id<15
+
+INSERT STATEMENT
+INSERT INTO users(dob, department, names, salary)
+VALUES('1990-11-13', 'services', 'peter tosh', 60900)
+
+SELECT UNIQUE ITEMS 
+SELECT DISTINCT department FROM users
+
+count uniques departments 
+SELECT COUNT (DISTINCT department) FROM users
+
+Get the sum of all salaries paid 
+SELECT SUM(salary) FROM users WHERE 1
+
+Get the minimum salary 
+SELECT names, MIN(salary)FROM users WHERE 1
+
+Get the maximum salary 
+SELECT names, MAX(salary) FROM users WHERE 1
+
+Get the youngest person 
+SELECT names, MIN(dob) AS "Max Date" FROM users
+
+
+
+
+
+
+
+
+
+
+                 
+                           
+                           
+
+
