@@ -14,3 +14,10 @@ for char in my_str:
 
 # display the unpunctuated string
 print(no_punct)
+
+
+
+
+writer = pd.ExcelWriter('pandas_simple.xlsx', engine='xlsxwriter')
+df2.to_excel(writer, sheet_name ='Sheet1')
+writer.save()
